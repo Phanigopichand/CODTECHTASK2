@@ -54,3 +54,6 @@ Model Training (Logistic Regression):
 Split Data: Divide the dataset into training and testing sets.
 Train the Model: Train a Logistic Regression model on the training data. Logistic Regression is a suitable classification algorithm for sentiment analysis as it predicts the probability of a review belonging to a particular sentiment class.
 Tune Hyperparameters (Optional): Experiment with different hyperparameters (e.g., regularization strength, solver) to optimize model performance.
+
+![WhatsApp Image 2025-01-18 at 1 06 13 PM](https://github.com/user-attachments/assets/14f7df7e-8393-4240-b9d7-d5e909b3025d)
+
